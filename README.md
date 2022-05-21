@@ -40,7 +40,7 @@ Registeration Number: 212221240013
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-image = cv2.imread("road.jpeg")
+image = cv2.imread("bike1.jpg")
 smoothImage = cv2.GaussianBlur(image,(3,3),0)
 plt.imshow(smoothImage)
 grayImage = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
