@@ -90,7 +90,7 @@ plt.show()
 
 
 ### Display the result of Hough transform
-![DIP9 3](https://user-images.githubusercontent.com/94827772/169645573-720f04f7-804d-4bf8-94d8-5952e6cd78b4.png)
+![DIP9 3](bike1.png)
 
 
 
